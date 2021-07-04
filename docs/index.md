@@ -16,12 +16,16 @@
 * Kreis- oder Tauchsäge
 * Stichsäge
 * Akkuschrauber
+
     * Holzbohrer 3mm
     * Lochsäge 40 mm
     * Kreuz-Bit
+
 * Oberfräse
+
     * Nutfräser 16 mm
     * Abrundfräser nach Geschmack
+    
 * Tischlerwinkel
 * Zollstock ("Gliedermaßstab")
 * Streichmaß (praktisch)
