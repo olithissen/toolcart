@@ -16,22 +16,36 @@
 * Kreis- oder Tauchsäge
 * Stichsäge
 * Akkuschrauber
-** Holzbohrer 3mm
-** Lochsäge 40 mm
-** Kreuz-Bit
+    * Holzbohrer 3mm
+    * Lochsäge 40 mm
+    * Kreuz-Bit
 * Oberfräse
-** Nutfräser 16 mm
-** Abrundfräser nach Geschmack
-** Tischlerwinkel
-** Zollstock ("Gliedermaßstab")
-** Streichmaß (praktisch)
-** ... Bleistift
+    * Nutfräser 16 mm
+    * Abrundfräser nach Geschmack
+* Tischlerwinkel
+* Zollstock ("Gliedermaßstab")
+* Streichmaß (praktisch)
+* ... Bleistift
 
-# 
+# Schritte
+
+## Übersicht
 
 ![Übersicht](overview.png)
+
+## Einzelteile
+
 ![Einzelteile](explosion.png)
+
+## Schnittoptimierung
+
 ![Schnittoptimierung 1](cutting1.png)
 ![Schnittoptimierung 2](cutting2.png)
+
+## Griffmulden
+
 ![Ausschnitte für Griffmulden](cutouts.png)
+
+## Fräsmaße
+
 ![Fräsmaße](routing.png)
