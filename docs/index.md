@@ -15,7 +15,7 @@
 
 ## Werkzeug
 
-* Kreis- oder Tauchsäge
+* Handkreissäge oder Tauchsäge
 * Stichsäge
 * Akkuschrauber
 
