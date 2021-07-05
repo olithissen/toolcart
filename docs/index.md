@@ -7,9 +7,11 @@
 
 ## Material
 
-* Multiplexplatten (1390 x 1000 x 15 mm) **2 x**
-* Holzschrauben 30 mm **~ 60 x**
-* Drehbare Rollen mit Bremsen **4 x**
+| Material | Menge |
+|-------|--------|
+| Multiplexplatten (1390 x 1000 x 15 mm) | 2 |
+| Holzschrauben 4 x 30 mm | ~ 60 |
+| Drehbare Rollen mit Bremsen | 4 |
 
 ## Werkzeug
 
